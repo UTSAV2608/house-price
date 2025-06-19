@@ -1,0 +1,16 @@
+
+---
+
+## 🛠 Requirements
+
+- Python 3.7+
+- pandas
+- joblib
+- scikit-learn
+- pillow
+- tkinter (comes with Python)
+
+Install all at once:
+
+```bash
+pip install -r requirements.txt
